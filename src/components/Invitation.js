@@ -10,7 +10,7 @@ const Invitation = () => {
                 <h6>for the wedding of</h6>
                 <h2>Anand & Anjali</h2>
                  <h5>On</h5>
-                <h3> 03 March, 2024</h3>
+                <h3> 04 March, 2024</h3>
                 <img src={image} alt="" />
             </div>
         </div>

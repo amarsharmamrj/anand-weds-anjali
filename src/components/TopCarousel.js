@@ -44,7 +44,7 @@ const TopCarousel = () => {
                     </Carousel>
                     <div className="overlay"></div>
                     <div className="center-heading">
-                            <h1>Anurag & Smita</h1>
+                            <h1>Anand & Anjali</h1>
                     </div>
                 </div>
             </Grid>
