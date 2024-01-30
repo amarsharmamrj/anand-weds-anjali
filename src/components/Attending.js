@@ -122,7 +122,7 @@ const Attending = () => {
                 <Heading name="Are you attending?" />
                 <iframe 
                 src="https://docs.google.com/forms/d/e/1FAIpQLSdycnjTBCHCuOKAX4EAcHgyZpoRJRk9N-rn9vPDLEzX2pLHQA/viewform?embedded=true" 
-                width="400" height="670" frameborder="0" marginheight="0" marginwidth="0"
+                width="380" height="670" frameborder="0" marginheight="0" marginwidth="0"
                 >Loading…</iframe>
             </Grid>
             <Grid item container xs={12} sm={12} md={3}></Grid>
